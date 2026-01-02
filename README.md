@@ -2,18 +2,18 @@
 
 ## Problem Statement
 
-Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers [[1]](https://github.com/uchihatashi/Risk-Analytics-in-Banking-and-Financial-Services). In the financial services sector, companies face numerous risks, including credit risk, market risk, and compliance risks [[2]](https://medium.com/@powerbicourses/the-role-of-power-bi-in-risk-management-identifying-and-mitigating-risks-812f0a3df07b). This project addresses the critical need for effective risk management in lending processes.
+Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers. In the financial services sector, companies face numerous risks, including credit risk, market risk, and compliance risks. This project addresses the critical need for effective risk management in lending processes.
 
 ## Solution
 
-We provide interactive dashboards created using the latest Power BI tools to help lending companies make data-driven decisions [[2]](https://medium.com/@powerbicourses/the-role-of-power-bi-in-risk-management-identifying-and-mitigating-risks-812f0a3df07b)[[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/). These dashboards analyze applicant profiles to predict loan repayment likelihood, enabling informed decisions on loan approvals, and adjust lending strategy [[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/). By visualizing key risk indicators, banks can evaluate their exposure to different risks in real-time [[2]](https://medium.com/@powerbicourses/the-role-of-power-bi-in-risk-management-identifying-and-mitigating-risks-812f0a3df07b).
+We provide interactive dashboards created using the latest Power BI tools to help lending companies make data-driven decisions. These dashboards analyze applicant profiles to predict loan repayment likelihood, enabling informed decisions on loan approvals, and adjust lending strategy [[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/). By visualizing key risk indicators, banks can evaluate their exposure to different risks in real-time.
 
 ## Key Features
 
-*   **Applicant Profiling:** Comprehensive analysis of applicant data to assess creditworthiness [[4]](https://www.kaggle.com/datasets/preethamgouda/financial-risk)[[5]](https://github.com/grknc/Banking-Risk-Assessment-ML/blob/main/README.md).
-*   **Risk Visualization:** Interactive dashboards displaying key risk indicators and potential trouble spots [[2]](https://medium.com/@powerbicourses/the-role-of-power-bi-in-risk-management-identifying-and-mitigating-risks-812f0a3df07b).
-*   **Data-Driven Decision Making:** Empowers informed decisions on loan approvals based on data insights [[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/).
-*   **Proactive Risk Mitigation:** Helps anticipate loan defaults, fraud attempts, and market changes [[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/).
+*   **Applicant Profiling:** Comprehensive analysis of applicant data to assess creditworthiness..
+*   **Risk Visualization:** Interactive dashboards displaying key risk indicators and potential trouble spots.
+*   **Data-Driven Decision Making:** Empowers informed decisions on loan approvals based on data insights.
+*   **Proactive Risk Mitigation:** Helps anticipate loan defaults, fraud attempts, and market changes.
 
 ## About Dataset
 
