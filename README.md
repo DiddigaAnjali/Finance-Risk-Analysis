@@ -29,6 +29,13 @@ The dataset features various columns such as income, credit score, and risk rati
 
 ## Power BI Dashboard Images
 ![Dashboard](https://github.com/user-attachments/assets/0e9376ff-4f1e-452b-a691-58618169e5c1)
+![Dashboard](https://github.com/user-attachments/assets/40bdbfdf-6a0b-4571-af4d-0bdf0ede1e04)
+![Dashboard](https://github.com/user-attachments/assets/d753d1ba-0b68-45cb-a373-03990557c85a)
+![Dashboard](https://github.com/user-attachments/assets/e458eed5-c81d-4f56-9090-e18bc6e956f6)
+![Dashboard](https://github.com/user-attachments/assets/532f292a-4144-4957-a53b-ddd6d09d7bb7)
+
+
+
 
 ## Conclusion
 
