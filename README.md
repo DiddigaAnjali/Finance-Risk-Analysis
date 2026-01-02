@@ -6,7 +6,7 @@ Develop a basic understanding of risk analytics in banking and financial service
 
 ## Solution
 
-We provide interactive dashboards created using the latest Power BI tools to help lending companies make data-driven decisions. These dashboards analyze applicant profiles to predict loan repayment likelihood, enabling informed decisions on loan approvals, and adjust lending strategy [[3]](https://thesunflowerlab.com/power-bi-banking-dashboard/). By visualizing key risk indicators, banks can evaluate their exposure to different risks in real-time.
+We provide interactive dashboards created using the latest Power BI tools to help lending companies make data-driven decisions. These dashboards analyze applicant profiles to predict loan repayment likelihood, enabling informed decisions on loan approvals, and adjust lending strategy. By visualizing key risk indicators, banks can evaluate their exposure to different risks in real-time.
 
 ## Key Features
 
@@ -28,8 +28,8 @@ This dataset contains information about bank details and various client details,
 The dataset features various columns such as income, credit score, and risk rating, with intentional imbalances and missing values to simulate real-world scenarios.
 
 ## Power BI Dashboard Images
-![Dashboard](<img width="1772" height="998" alt="Screenshot 2026-01-02 095900" src="https://github.com/user-attachments/assets/0e9376ff-4f1e-452b-a691-58618169e5c1" />
-)
+![Dashboard](https://github.com/user-attachments/assets/0e9376ff-4f1e-452b-a691-58618169e5c1)
+
 ## Conclusion
 
 Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for use in the banking sector. A banking operations dashboard in Power BI can be developed with key banking-related metrics and KPIs. These dashboards demonstrate how diverse approaches can generate powerful insights from the same dataset.
